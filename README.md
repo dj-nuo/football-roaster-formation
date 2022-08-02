@@ -16,6 +16,7 @@ Input variables:
 1. Total time to play (e.g. 120 mins)
 2. Number of players with their names (e.g. 13)
 3. Number of teams (e.g 2)
+4. Players per team (e.g. 5) 
 
 Output results:
 
