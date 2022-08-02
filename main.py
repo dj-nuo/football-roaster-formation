@@ -34,8 +34,9 @@ for index, switch in enumerate(roaster):
     print(index + 1, f" | min {index * optimal_time_per__switch}-{(index + 1) * optimal_time_per__switch} | ",switch)
 
 # # debug info
-# for player, switches in switches_per_player.items():
-#     print(switches, player)
+print("######################## DEBUG INFO ###############")
+for player, switches in switches_per_player.items():
+    print(switches, player)
     
 
 
