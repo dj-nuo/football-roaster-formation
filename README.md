@@ -1,11 +1,3 @@
-|
-|
-|
-|
-| --- | --- | --- |
-
-#
-
 # Football player roaster formation algorithm
 
 As for the algorithm, I tried using Google to find the solution but still can&#39;t (((
@@ -87,9 +79,3 @@ Introduce new input variables:
 Output:
 
 1. Players role affects roaster formation so that each team is &quot;balanced&quot; - each team has ~ equal amount of attackers, midfielders &amp; defenders
-
-|
-|
-|
-|
-| --- | --- | --- |
